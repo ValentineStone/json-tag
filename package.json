@@ -1,0 +1,28 @@
+{
+  "name": "json-tag",
+  "version": "1.0.0",
+  "description": "Tagged template literal that escapes arguments as JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValentineStone/json-tag.git"
+  },
+  "keywords": [
+    "json",
+    "tag",
+    "tagged",
+    "template",
+    "literals",
+    "es2015",
+    "es6"
+  ],
+  "author": "Leonid Romanovsky <sirLeonidRomanovsky@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ValentineStone/json-tag/issues"
+  },
+  "homepage": "https://github.com/ValentineStone/json-tag#readme"
+}
